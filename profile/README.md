@@ -1,6 +1,6 @@
-## Blade Router
+## Packet Blade
 
-The blade router is an open source hardware project run by
+Packet Blade is an open source hardware project run by
 [Sidings Media](https://github.com/SidingsMedia) that aims to
 provide a high density platform that allows for a cluster of
 ARM based routers within a standard 19" rack. In order to
@@ -30,6 +30,6 @@ Mid-January 2023      - Beta release of board
 ## Find out more
 If you have any questions about this project, feel free to get in 
 touch. You can drop us an email on 
-[bladerouter@sidingsmedia.com](mailto:bladerouter@sidingsmedia.com)
+[packetblade@sidingsmedia.com](mailto:packetblade@sidingsmedia.com)
 or you can visit the [Sidings Media website](https://sidingsmedia.com)
 for more ways to contact us.
