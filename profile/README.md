@@ -1,6 +1,6 @@
-## Packet Blade
-
 ![Packet blade logo](https://raw.githubusercontent.com/PacketBlade/logos/main/rendered/packet-512x399.png)
+
+# Packet Blade
 
 Packet Blade is an open source hardware project run by
 [Sidings Media](https://github.com/SidingsMedia) that aims to
